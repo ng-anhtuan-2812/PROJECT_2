@@ -15,7 +15,7 @@
 #define MCU_SIM_EN_PIN              15
 
 // Please update number before test
-#define PHONE_NUMBER                "+84523715215"
+#define PHONE_NUMBER                "+84xxxxxxxxxx"
 
 Adafruit_MPU6050 mpu;
 
